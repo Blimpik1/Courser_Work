@@ -1,0 +1,5 @@
+﻿  Courser.cpp
+  dispersion.cpp
+C:\Users\vladm\Desktop\2 курс КІ\Курсова ООП\Courser2\Courser\dispersion.cpp(26,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Courser.vcxproj -> C:\Users\vladm\Desktop\2 курс КІ\Курсова ООП\Courser2\Courser\x64\Debug\Courser.exe

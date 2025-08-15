@@ -1,0 +1,8 @@
+DISP>avg 
+k k k k   
+DISP>avg 
+-10 22.5 33.8 12 
+DISP<avg 
+-10 22.5 33.8 12.1 5 8 9 
+DISP<avg
+fghjkl hjkl; hjkl;
